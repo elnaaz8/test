@@ -1,6 +1,5 @@
 
 public class Main {
-
     public void testInputFunctionality() {
     }
 
